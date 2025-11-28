@@ -15,7 +15,7 @@ B. Feature Engineering & ModelingVektorisasi: Mengubah teks menjadi fitur numeri
 # 3.📈 Hasil Kunci (Kuantitas dan Kualitas)
 Analisis kinerja menunjukkan bahwa model klasik, yang dikombinasikan dengan fitur TF-IDF yang kuat, mencapai hasil optimal.
 |Model Terbaik|Akurasi (Accuracy)Kinerja Utama & Dampak|
-|  ----  |  ----  |  ----  |
+| :---         |     :---:      |          ---: |
 |Logistic Regression|70.0%|Puncak Akurasi. Bukti bahwa kualitas fitur TF-IDF menghasilkan classifier yang sangat efisien.|
 |SVM|68.1%|Model Klasik terkuat kedua.|
 |LSTM|62.0%|Model Deep Learning terbaik, menunjukkan bahwa model klasik lebih optimal pada skala data ini.|
