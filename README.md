@@ -21,7 +21,7 @@ Analisis kinerja menunjukkan bahwa model klasik, yang dikombinasikan dengan fitu
 | Content Cell  | Content Cell  |
 
 
-| Model Terbaik | Akurasi (Accuracy)Kinerja Utama & Dampak |
+| Model Terbaik | Akurasi (Accuracy) | Kinerja Utama & Dampak |
 | :---         |  :---        | :---          |
 | Logistic Regression | 70.0% | Puncak Akurasi. Bukti bahwa kualitas fitur TF-IDF menghasilkan classifier yang sangat efisien |
 | SVM | 68.1% | Model Klasik terkuat kedua |
